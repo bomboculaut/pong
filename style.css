@@ -1,0 +1,7 @@
+html,body{height:100%;margin:0;background:#111;color:#fff;font-family:system-ui,Segoe UI,Roboto,Arial}
+canvas{display:block;margin:24px auto;background:#000;border-radius:6px;box-shadow:0 8px 30px rgba(0,0,0,.6);max-width:900px;width:90%;height:70vh}
+.instructions{text-align:center;padding:8px;font-size:14px;color:#ddd}
+.topbar{display:flex;justify-content:center;padding:12px 0}
+.controls{color:#ddd;gap:12px;display:flex;align-items:center}
+.controls label{font-size:14px}
+.controls select{margin-left:8px}
