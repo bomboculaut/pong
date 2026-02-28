@@ -20,3 +20,5 @@ Audio & win condition:
 - The game ends when either player reaches 10 points — a victory melody plays and an overlay announces who won.
 - Press `Space` to restart after the game ends.
 
+more games from me coming soon mostly all going to be AI as im ass at code
+
